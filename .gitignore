@@ -1,0 +1,24 @@
+# Python / Flask
+__pycache__/
+*.py[cod]
+venv/
+.env
+instance/
+*.sqlite3
+
+# React
+React/node_modules/
+React/build/
+
+# Node.js (just in case)
+node_modules/
+dist/
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.log
+*.swp
+
+# macOS / Linux
+.DS_Store
